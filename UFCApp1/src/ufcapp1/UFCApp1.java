@@ -18,7 +18,7 @@ public class UFCApp1 {
         f[5] = new Fighter("Banana", "Ireland", 56, 1, 8, 2, 53f, 169f);
         
         Fight UFC1 = new Fight();
-        UFC1.setFight(f[1], f[5]);
+        UFC1.setFight(f[3], f[5]);
         UFC1.fight();
 
         // call the objets 
